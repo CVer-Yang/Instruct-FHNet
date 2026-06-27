@@ -4,4 +4,4 @@ Road Extraction from Remote Sensing Images with Integration of Building Semantic
 
 第一步：准备数据集。下载Massachusetts道路与Massachusetts建筑数据集，下载paris数据集，分别提供道路掩码与建筑掩码。设置指令：我们设置的指令为Please extracte roads from the image /Please extracte buildings from the image
 第二步：参考(https://github.com/Chen-Yang-Liu/MLAT) 进行指令文本数据处理。
-第二步：运行代码进行道路、建筑协同提取。
+第三步：运行代码进行道路、建筑协同提取。
